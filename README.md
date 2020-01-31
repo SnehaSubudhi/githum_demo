@@ -1,2 +1,2 @@
-# githum_demo
+# github_demo
 A Simple git Repositry to know the basic workflow.
